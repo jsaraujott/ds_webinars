@@ -1,0 +1,1 @@
+En este caso de estudio y ejercicios se busca continuar con la práctica de los fundamentos de manipulación de datos con **Pandas**, así como una primera aproximación hacía la visualización de resultados mediante gráficos con **Matplotlib**.
