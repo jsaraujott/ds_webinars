@@ -1,4 +1,4 @@
-n este caso vamos a tratar el método de **descenso de gradiente** que aprovecha del poder computacional actual para generar modelos predictivos de alta asertividad. En este sentido, la aplicación de este procedimiento permite dos cosas importantes en el campo del aprendizaje computacional:
+En este caso vamos a tratar el método de **descenso de gradiente** que aprovecha del poder computacional actual para generar modelos predictivos de alta asertividad. En este sentido, la aplicación de este procedimiento permite dos cosas importantes en el campo del aprendizaje computacional:
 
 * Por una parte, ayuda a potenciar algoritmos tradicionales (como los que que ya conoces) mediante un proceso de ensamblaje secuencial de los mismos. Este aspecto es el que trataremos a continuación.
 * Así también, facilita el desarrollo de nuevos algoritmos complejos para pronóstico como son las redes neuronales, y que veremos en otra ocasión.
