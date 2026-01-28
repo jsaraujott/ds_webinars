@@ -18,6 +18,6 @@ Material para webinars del track de DS:
 **Módulo 3**
 * Métodos de Álgebra Lineal (S13)
 * Modelos de Descenso de Gradiente (S14)
-* Modelos de Series Temporales (S15)
-* Modelos de Lenguaje Natural (S16)
+* Métodos de Series Temporales (S15)
+* Métodos de Lenguaje Natural (S16)
 * Modelos de Redes Neuronales (S17)
