@@ -21,3 +21,6 @@ Material para webinars del track de DS:
 * Métodos de Series Temporales (S15)
 * Métodos de Lenguaje Natural (S16)
 * Modelos de Redes Neuronales (S17)
+
+**Módulo 4 (Opcional)**
+* Modelos No Supervisados (S18)
