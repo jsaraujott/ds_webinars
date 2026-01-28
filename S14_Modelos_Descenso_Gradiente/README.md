@@ -1,0 +1,6 @@
+n este caso vamos a tratar el método de **descenso de gradiente** que aprovecha del poder computacional actual para generar modelos predictivos de alta asertividad. En este sentido, la aplicación de este procedimiento permite dos cosas importantes en el campo del aprendizaje computacional:
+
+* Por una parte, ayuda a potenciar algoritmos tradicionales (como los que que ya conoces) mediante un proceso de ensamblaje secuencial de los mismos. Este aspecto es el que trataremos a continuación.
+* Así también, facilita el desarrollo de nuevos algoritmos complejos para pronóstico como son las redes neuronales, y que veremos en otra ocasión.
+
+Además de lo anterior, en este caso vamos a enfocarnos en la técnica de reescalamiento, la cual hemos empleado hasta ahora como un medio para que los atributos numéricos mantengan un orden de magnitud similar entre ellos. Sin embargo, este método puede igualmente utilizarse con el propósito de garantizar un adecuado comportamiento en los valores que tome una variable objetivo. Y es que vale recordar que entre las principales condiciones necesarias para que ciertos algoritmos funcionen adecuadamente es que dicho objetivo siga una distribución aproximadamente normal.
