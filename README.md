@@ -16,6 +16,8 @@ Material para webinars del track de DS:
 * Lógica Difusa (S12)
 
 **Módulo 3**
-* Métodos matemáticos (S13 - S14 - S15)
+* Métodos de álgebra lineal (S13)
+* Modelos de Descenso de Gradiente (S14)
+* Modelos de Series Temporales (S15)
 * Modelos de Lenguaje Natural (S16)
 * Modelos de Redes Neuronales (S17)
