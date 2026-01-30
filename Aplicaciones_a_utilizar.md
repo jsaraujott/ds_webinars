@@ -1,6 +1,6 @@
 ## Aplicaciones a utilizar en webinars
 
-**Sprint 1 Sprint 6**
+**Sprint 1 - Sprint 6**
 * Google Colaboratory: https://colab.research.google.com/
   * No se requiere ninguna instalación, solamente conexión a Internet
 
