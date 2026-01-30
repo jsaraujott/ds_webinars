@@ -24,4 +24,4 @@
 * Extensión de VS Code: PostgreSQL de Microsoft
 
 **Sprint 9 - Sprint 18**
-* Se trabaja todo en VS Code.
+* Se trabaja todo en VS Code
