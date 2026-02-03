@@ -10,7 +10,6 @@ Material para webinars del track de DS:
 
 **Módulo 2**
 * Herramientas Complementarias (S7 - S8)
-* ---Curso de preparación de carrera
 * Introducción a Apendizaje Computacional (S9)
 * Modelos de Clasificación (S10)
 * Modelos de Regresión (S11)
